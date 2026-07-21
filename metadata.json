@@ -1,0 +1,6 @@
+{
+  "name": "Mastery AI",
+  "description": "Your premium, futuristic, and friendly personal AI learning companion that helps you master any skill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
